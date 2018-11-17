@@ -321,7 +321,7 @@
                 loop: true,
                 autoplay:true,
                 dots: true,
-                navText: ["<img src='./assets/img/arrow-left-ash.png'>","<img src='./assets/img/arrow-right-ash.png'>"],
+                navText: ["<img src='assets/img/arrow-left-ash.png'>","<img src='assets/img/arrow-right-ash.png'>"],
                 autoplayTimeout: 5000,
                 autoplaySpeed: 500,
                 nav: true,
